@@ -1,4 +1,4 @@
-# 🔧 Nom du projet
+# 🔧 DiffChecker AI
 
 ## 🎯 Description du projet
 
