@@ -26,8 +26,8 @@ Il analyse les modifications proposées, identifie les bonnes pratiques non resp
 ### Installation
 
 ```bash
-git clone https://github.com/ton-utilisateur/nom-du-projet.git
-cd nom-du-projet
+git clone https://github.com/AristideWafo/ai-bot--review.git
+cd ai-bot--review
 pnpm install # ou npm install ou yarn install
 ```
 
